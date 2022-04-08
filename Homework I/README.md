@@ -63,7 +63,8 @@ sudo docker run -it --rm -p 8889:8889 -v $PWD:/hw1 dl_hw1 /bin/bash
 
 ## **Results** 
 
-Classification is performed with Logistic Regression and confusion matrix is reached on test dataset
+Classification is performed with Logistic Regression and the confusion matrix is reached on the test dataset.
+
 ![](confusion_matrices/prediction_cm.png)
 
 ### Related Readings
