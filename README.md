@@ -61,22 +61,8 @@ You can also use it interactively by running:
 sudo docker run -it --rm -p 8889:8889 -v $PWD:/hw1 dl_hw1 /bin/bash
 ```
 
-### Submission
-
-Any large-sized file (images, binaries, data files, model parameters, etc) should be ignored while submitting the homework. Submissions are done via Ninova until the submission deadline. Submit the homework directory as a zip file when you complete the homework.
-
-### Evaluation
-
-- Numpy Basics (25%)
-- Logistic Regression (75%)
-
 ### Related Readings
 
 > [Deep Learning Book - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
 - Chapters 3-5
-
-### Contact
-
-TA: Tolga Ok
-okt@itu.edu.tr
