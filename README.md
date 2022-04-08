@@ -61,6 +61,11 @@ You can also use it interactively by running:
 sudo docker run -it --rm -p 8889:8889 -v $PWD:/hw1 dl_hw1 /bin/bash
 ```
 
+## **Results** 
+
+Classification is performed with Logistic Regression and confusion matrix is reached on test dataset
+![](confusion_matrices/prediction_cm.png)
+
 ### Related Readings
 
 > [Deep Learning Book - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
