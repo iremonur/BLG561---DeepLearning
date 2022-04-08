@@ -60,6 +60,9 @@ You can also use it interactively by running:
 ```
 sudo docker run -it --rm -p 8889:8889 -v $PWD:/hw1 dl_hw1 /bin/bash
 ```
+## **Dataset** 
+
+Fashion MNIST which is a MNIST-like dataset of 70,000 28x28 labeled fashion images is used for the logistic classification. The dataset can be downloaded via the code provided in logistic-regression.ipynb.
 
 ## **Results** 
 
